@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": "5.89"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20",
+      "price": 5000.89
+    },
+    {
+      "id": 4,
+      "name": "Geleira",
+      "price": 125.89
+    },
+    {
+      "id": 5,
+      "name": "Cadeirão Preto de Napa ",
+      "price": "200000"
+    },
+    {
+      "id": 6,
+      "name": "Veio do Formulário ",
+      "price": "9.99"
+    },
+    {
+      "id": 7,
+      "name": "Microondas",
+      "price": "35000"
+    },
+    {
+      "id": 8,
+      "name": "Café  Ginga ",
+      "price": "750"
+    },
+    {
+      "id": 9,
+      "name": "testando ",
+      "price": "120"
+    }
+  ]
+}
